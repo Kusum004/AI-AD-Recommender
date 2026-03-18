@@ -3,4 +3,3 @@ pandas
 numpy
 tensorflow
 plotly
-opencv-python-headless
